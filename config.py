@@ -107,10 +107,10 @@ class Txt(object):
 <b>📢 Channel :</b> <a href='https://t.me/tech_freak_tamil'>TFT BOTS</a>
 <b>🛡️ :</b> <a href='https://t.me/+NITVxLchQhYzNGZl'>TFT Developer</a>
     
-<b>😈 Bot Made By :</b> @tech_freak_tamil"""
+<b>😈 Bot Made By :</b> @Team_TD_Links"""
 
 
 # Tech freak 
 # Don't Remove Credit!!!
-# Telegram Channel @Tech_freak_tamil
-# Developer @devilo7
+# Telegram Channel https://t.me/Team_TD_Links
+# Developer https://t.me/Team_TD_Links
