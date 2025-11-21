@@ -4,7 +4,7 @@
   "logo": "",
   "keywords": ["File Sharing Premium Bot", "Mongo DB"],    
   "repository": "https://github.com/techfreak555/TF-File-Store-Bot",
-  "success_url": "https://t.me/tech_freak_tamil",
+  "success_url": "https://t.me/Team_TD_Links",
   "env": {
       "API_ID": {
           "description": "Your APP ID From my.telegram.org ",
