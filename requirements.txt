@@ -5,6 +5,9 @@ pymongo
 dnspython
 aiohttp
 humanize
-pip install emoji
+emoji
+   
+
+
 
 
