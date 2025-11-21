@@ -96,8 +96,8 @@ class Bot(Client):
             sys.exit()
 
         self.set_parse_mode(ParseMode.HTML)
-        self.LOGGER(__name__).info(f"Bot Running...!\n\nCreated By \nhttps://t.me/Tech_freak_tamil")
-        self.LOGGER(__name__).info(f"""ミ💖 TFT Developer 💖彡""")
+        self.LOGGER(__name__).info(f"Bot Running...!\n\nCreated By \nhttps://t.me/Team_TD_Links")
+        self.LOGGER(__name__).info(f"""ミ💖 TD Developer 💖彡""")
         self.username = usr_bot_me.username
         #web-response
         app = web.AppRunner(await web_server())
@@ -116,5 +116,5 @@ class Bot(Client):
 
 # Tech freak 
 # Don't Remove Credit!!!
-# Telegram Channel @Tech_freak_tamil
-# Developer @devilo7
+# Telegram @Team_TD_Links
+# Developer @Team_TD_Links
