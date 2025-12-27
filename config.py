@@ -25,8 +25,8 @@ FORCE_SUB_CHANNEL_3 = int(os.environ.get("FORCE_SUB_CHANNEL_3", "0"))
 
 FORCE_SUB_CHANNEL_4 = int(os.environ.get("FORCE_SUB_CHANNEL_4", "0"))
 
-START_PIC = os.environ.get("START_PIC", "https://files.catbox.moe/acjr05.jpg")
-F_PIC = os.environ.get("FORCE_PIC", "https://files.catbox.moe/acjr05.jpg")
+START_PIC = os.environ.get("START_PIC", "https://ibb.co/CK3TrSsj")
+F_PIC = os.environ.get("FORCE_PIC", "https://ibb.co/CK3TrSsj")
 
 FILE_AUTO_DELETE = int(os.getenv("FILE_AUTO_DELETE", "1800")) # auto delete in seconds
 
@@ -67,7 +67,7 @@ BOT_STATS_TEXT = "<b>BOT UPTIME :</b>\n{uptime}"
 
 USER_REPLY_TEXT = "❌Sry You can't Able to Message me !\n\n» My Owner 👉 "
 
-START_MSG = os.environ.get("START_MESSAGE", "<b>Hi {first} Friend I am a Advance File Store bot 😈 \n\n I was created by 👉@Team_TD_Links </b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b>Hi {first} Friend I am a Advance File Store bot 😈 \n\n I was created by 👉 @TD_Public_Bots </b>")
 
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "𝐒𝐨𝐫𝐫𝐲 {first} You must join the given channels ..\n\n 𝐒𝐨 please join and  “𝐍𝐨𝐰 𝐂𝐥𝐢𝐜𝐤 𝐡𝐞𝐫𝐞” 𝐛𝐮𝐭𝐭𝐨𝐧....!")
 
@@ -101,16 +101,16 @@ def LOGGER(name: str) -> logging.Logger:
 
 class Txt(object):
     about = f"""<b>😈 My Name :</b> <a href=''>[AW] File store bot 😈 </a>
-<b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
-<b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-<b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Team_TD_Links'>TD BOTS</a>
-<b>🛡️ :</b> <a href='https://t.me/Team_TD_Links'>TD Developer</a>
+<b>📝 Owner :</b> <a href='https://t.me/TD_Public_Bots'>TD Public Bots</a>
+<b>📡 update  :</b> <a href='https://t.me/TD_Public_Bots'>TD Public Bots</a>
+<b>💫 YouTube :</b> <a href='https://youtube.com/@td_public_bots?si=Ngk56LVUx7G-yDhH'>channel Link</a>
+<b> 🧩 Animes :</b> <a href='https://t.me/Team_TD_Links'>channel Link</a>
+<b>♻️ Discussion :</b> <a href='https://t.me/Team_TD_Links'>Group Linkr</a>
     
-<b>😈 Bot Made By :</b> @Team_TD_Links"""
+<b>😈 Bot Made By :</b> @TD_Public_Bots"""
 
 
-# Tech freak 
+# TD public Bots 
 # Don't Remove Credit!!!
-# Telegram Channel https://t.me/Team_TD_Links
-# Developer https://t.me/Team_TD_Links
+# Telegram Channel https://t.me/TD_Public_Bots
+# Developer @TD_Public_Bots
