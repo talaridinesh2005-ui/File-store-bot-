@@ -167,7 +167,7 @@ subscribed3 = filters.create(is_subscribed3)
 subscribed4 = filters.create(is_subscribed4)
 
 
-# Tech freak 
+# @TD_Public_Bots
 # Don't Remove Credit!!!
-# Telegram Channel @Team_TD_Links
-# Developer @Team_TD_Links
+# Telegram Channel @TD_Public_Bots
+# Developer @TD_Public_Bots
