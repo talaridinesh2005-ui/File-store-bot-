@@ -15,7 +15,7 @@ DB_URL = os.environ.get("DB_URL", "mongodb+srv://tdanimehub_db_user:cPdMT253KSZp
 DB_NAME = os.environ.get("DB_NAME", "tdanimehub")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003314714851")
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003314714851"))
 
 FORCE_SUB_CHANNEL_1 = int(os.environ.get("FORCE_SUB_CHANNEL_1", "0"))
 
