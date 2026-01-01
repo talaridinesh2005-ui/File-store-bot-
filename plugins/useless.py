@@ -25,7 +25,9 @@ async def useless(_,message: Message):
 
 
 
-# Tech freak 
+# TD Bot Dev
 # Don't Remove Credit!!!
-# Telegram Channel @Tech_freak_tamil
-# Developer @devilo7
+#YouTube channel link https://youtube.com/@tdbotdev?si=j3HVY4E69-C4ZDcw
+# Telegram Channel @TD_Public_Bots
+# Developer @TD_Public_Bots
+
