@@ -47,7 +47,9 @@ async def root_route_handler(request):
 
 
 
-# Tech freak 
+# TD Bot Dev
 # Don't Remove Credit!!!
-# Telegram Channel @Team_TD_Links
-# Developer @Team_TD_Links
+#YouTube channel link https://youtube.com/@tdbotdev?si=j3HVY4E69-C4ZDcw
+# Telegram Channel @TD_Public_Bots
+# Developer @TD_Public_Bots
+
