@@ -1,10 +1,4 @@
-<h2 align="Center"><b><i>File-sharing-Bot</i></b></h2>
-<center><img src="https://files.catbox.moe/ufzpkn.jpg" ></center>
-<p align="center">
-  <a href="https://www.python.org">
-    <img width="10" height="10" src="https://ibb.co/CK3TrSsj" width ="250">
-  </a> 
-</p>
+
 
 
 <b><i>Telegram Bot to store Posts and Documents and it can Access by Special Links.</i></b> 
