@@ -99,8 +99,8 @@ async def start_command(client: Client, message: Message):
         return
     else:
         reply_markup = InlineKeyboardMarkup([[
-            InlineKeyboardButton("⚔️Update Channel", url="https://t.me/Team_TD_Links"),
-            InlineKeyboardButton("🛡️Support Group", url="https://t.me/+ApfL2bd6K9M0ZDE1")
+            InlineKeyboardButton("⚔️Update Channel", url="https://t.me/TD_Public_Bots"),
+            InlineKeyboardButton("🛡️Support Group", url="https://t.me/TD_Public_Bots")
             ],[
             InlineKeyboardButton("📢Help", callback_data="Help"),
             InlineKeyboardButton("⚡About", callback_data="about")
@@ -242,7 +242,9 @@ async def delete_files(messages, client, k):
 
 
 
-# Tech freak 
+# TD Bot Dev
 # Don't Remove Credit!!!
-# Telegram Channel @Tech_freak_tamil
-# Developer @devilo7
+#YouTube channel link https://youtube.com/@tdbotdev?si=j3HVY4E69-C4ZDcw
+# Telegram Channel @TD_Public_Bots
+# Developer @TD_Public_Bots
+
