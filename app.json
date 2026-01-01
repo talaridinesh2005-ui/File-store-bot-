@@ -3,7 +3,7 @@
   "description": "Telegram File Sharing Premium Bot Bot ",
   "logo": "",
   "keywords": ["File Sharing Premium Bot", "Mongo DB"],    
-  "repository": "https://github.com/techfreak555/TF-File-Store-Bot",
+  "repository": "https://github.com/talaridinesh2005-ui/TF-File-store-bot",
   "success_url": "https://t.me/Team_TD_Links",
   "env": {
       "API_ID": {
