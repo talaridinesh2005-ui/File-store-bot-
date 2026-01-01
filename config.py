@@ -103,14 +103,15 @@ class Txt(object):
     about = f"""<b>😈 My Name :</b> <a href=''>[AW] File store bot 😈 </a>
 <b>📝 Owner :</b> <a href='https://t.me/TD_Public_Bots'>TD Public Bots</a>
 <b>📡 update  :</b> <a href='https://t.me/TD_Public_Bots'>TD Public Bots</a>
-<b>💫 YouTube :</b> <a href='https://youtube.com/@td_public_bots?si=Ngk56LVUx7G-yDhH'>channel Link</a>
+<b>💫 YouTube :</b> <a href='https://youtube.com/@tdbotdev?si=j3HVY4E69-C4ZDcw'>channel Link</a>
 <b> 🧩 Animes :</b> <a href='https://t.me/Team_TD_Links'>channel Link</a>
 <b>♻️ Discussion :</b> <a href='https://t.me/Team_TD_Links'>Group Linkr</a>
     
 <b>😈 Bot Made By :</b> @TD_Public_Bots"""
 
 
-# TD public Bots 
+# @TD_Public_Bots
 # Don't Remove Credit!!!
-# Telegram Channel https://t.me/TD_Public_Bots
+#YouTube channel link https://youtube.com/@tdbotdev?si=j3HVY4E69-C4ZDcw
+# Telegram Channel @TD_Public_Bots
 # Developer @TD_Public_Bots
